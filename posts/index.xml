@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Zander&#39;s Blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | Zander&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>gaozhanwk@163.com (Zander)</managingEditor>
+            <webMaster>gaozhanwk@163.com (Zander)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 07 Mar 2024 12:01:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>使用Hugo和GitHub Page制作个人博客</title>
+    <link>http://localhost:1313/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub-page%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Thu, 07 Mar 2024 12:01:00 &#43;0800</pubDate>
+    <author>Zander</author>
+    <guid>http://localhost:1313/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub-page%E5%88%B6%E4%BD%9C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[安装Hugo 官方文档， ArchLinux 系统为例中打开终端，输入命令 1 sudo pacman -S hugo 在 doom-emacs 中安装 ox-hugo 在 doom 配置文件 init.el 中, 取消 org 一行的注释, 在下面添加 hugo 支持即 可 ox-hugo 的使用与]]></description>
+</item>
+</channel>
+</rss>
